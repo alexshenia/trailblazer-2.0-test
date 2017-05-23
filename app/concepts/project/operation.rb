@@ -1,4 +1,4 @@
-module User::Operation
+module Project
   class Create < Trailblazer::Operation
     step :process!
 
